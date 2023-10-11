@@ -25,8 +25,8 @@ Save the final data set into the file
 # CODE
 - <B>Diabetes.csv</B>
 ----------------------------
-**name:chadalawada jaswanth
-   reg no:212221040030**
+**name:A.sudheer
+   reg no:21222004006
 ```python
 import pandas as pd
 import numpy as np
