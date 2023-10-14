@@ -26,7 +26,7 @@ Save the final data set into the file
 - <B>Diabetes.csv</B>
 ----------------------------
 **name:A.sudheer
-   reg no:21222004006
+   reg no:212220040006
 ```python
 import pandas as pd
 import numpy as np
